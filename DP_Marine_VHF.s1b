@@ -1,0 +1,40 @@
+﻿,,,Marine VHF Channels,,,,
+,,,,,,,
+,,,Distress Weather,,,,
+156800000,Y,FM,CH 16 - Distress,,,2800,AntB
+156375000,Y,FM,CH 67 - Safety,,,2800,AntB
+156300000,Y,FM,CH 6 - Emergency,,,2800,AntB
+156475000,Y,FM,CH 69 - Navy,,,2800,AntB
+,,,,,,,
+,,,Coastguard Melbourne ,,,,
+154575000,Y,FM,DOM VHF,,,2800,AntB
+460400000,Y,FM,Dom Downlink,,,2800,AntB
+450900000,Y,FM,Dom Uplink,,,2800,AntB
+,,,,,,,
+,,,Port,,,,
+156600000,Y,FM,CH 12 - VTS,,,2800,AntB
+160700000,Y,FM,CH 2 - Port Ops,,,2800,AntB
+156450000,Y,FM,CH 9 - Port Ops,,,2800,AntB
+,,,,,,,
+,,,Racing,,,,
+156875000,Y,FM,CH 77 - Yacht Race,,,2800,AntB
+156675000,Y,FM,CH 73 - Yacht Race,,,2800,AntB
+,,,,,,,
+,,,Vic Coast Repeaters,,,,
+161650000,Y,FM,CH 21,,,2800,AntB
+161700000,Y,FM,CH 22,,,2800,AntB
+161625000,Y,FM,CH 80,,,2800,AntB
+161675000,Y,FM,CH 81,,,2800,AntB
+161725000,Y,FM,CH 82,,,2800,AntB
+,,,,,,,
+,,,Tas Coast Repeaters,,,,
+161650000,Y,FM,CH 21,,,2800,AntB
+161625000,Y,FM,CH 80,,,2800,AntB
+161675000,Y,FM,CH 81,,,2800,AntB
+161725000,Y,FM,CH 82,,,2800,AntB
+156375000,Y,FM,CH 67 Tas WX,,,2800,AntB
+156425000,Y,FM,CH 68 Tas WX,,,2800,AntB
+156475000,Y,FM,CH 69 Tas WX,,,2800,AntB
+,,,,,,,
+,,,DSC,,,,
+156525000,Y,FM,CH 70 DSC,,,2800,AntB
