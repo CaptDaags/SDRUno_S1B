@@ -1,0 +1,37 @@
+,,WICEN Frequencies,,,,
+,,,,,,,
+,,,WICEN HF Freqs,,,,
+3600000,Y,LSB,HF Voice,,,3000,AntA
+7075000,Y,LSB,HF Voice,,,3000,AntA
+10115000,Y,USB,HF Voice,,,3000,AntA
+14125000,Y,USB,HF Voice,,,3000,AntA
+18150000,Y,USB,HF Voice,,,3000,AntA
+21190000,Y,USB,HF Voice,,,3000,AntA
+24950000,Y,USB,HF Voice,,,3000,AntA
+28450000,Y,USB,HF Voice,,,3000,AntA
+,,,,,,,
+,,,WICEN VHF Voice Freqs,,,,
+146500000,Y,FM,VHF Voice Simplex,,,2800,AntB
+146850000,Y,FM,VHF Voice Rptr VK3RMN,,,2800,AntB
+146925000,Y,FM,VHF Voice Rptr Portable,,,2800,AntB
+147300000,Y,FM,VHF Voice Rptr Portable,,,2800,AntB
+147850000,Y,FM,VHF Voice Rptr VK3RMM,,,2800,AntB
+,,,,,,,
+,,,WICEN VHF Data Freqs,,,,
+144900000,Y,FM,VHF Data,,,2800,AntB
+145200000,Y,FM,VHF Data WICEN Excl,,,2800,AntB
+,,,,,,,
+,,,WICEN UHF Voice Freqs,,,,
+438275000,Y,FM,UHF Voice Rptr Portable,,,2800,AntB
+438675000,Y,FM,UHF Voice Rptr Portable,,,2800,AntB
+438800000,Y,FM,UHF Portable Link,,,2800,AntB
+439000000,Y,FM,UHF Voice Simplex,,,2800,AntB
+439450000,Y,FM,UHF Voice Rptr VK3RMN,,,2800,AntB
+439825000,Y,FM,UHF Voice Rptr VK3RMM,,,2800,AntB
+439925000,Y,FM,UHF Voice Rptr Portable,,,2800,AntB
+439975000,Y,FM,UHF Voice Rptr Portable,,,2800,AntB
+440600000,Y,FM,UHF Voice Portable Rptr Duplex Link,,,2800,AntB
+,,,,,,,
+,,,WICEN UHF Data Freqs,,,,
+434150000,Y,FM,UHF Data Simplex,,,2800,AntB
+,,,,,,,
