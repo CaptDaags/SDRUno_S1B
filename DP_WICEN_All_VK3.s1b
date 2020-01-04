@@ -10,6 +10,13 @@
 24950000,Y,USB,HF Voice,,,3000,AntA
 28450000,Y,USB,HF Voice,,,3000,AntA
 ,,,,,,,
+,,,IARU Emergency HF Freqs,,,,
+3600000,Y,LSB,HF Voice,,,3000,AntA
+7110000,Y,LSB,HF Voice,,,3000,AntA
+14300000,Y,USB,HF Voice,,,3000,AntA
+18160000,Y,USB,HF Voice,,,3000,AntA
+21360000,Y,USB,HF Voice,,,3000,AntA
+,,,,,,,
 ,,,WICEN VHF Voice Freqs,,,,
 146500000,Y,FM,VHF Voice Simplex,,,2800,AntB
 146850000,Y,FM,VHF Voice Rptr VK3RMN Output,,,2800,AntB
